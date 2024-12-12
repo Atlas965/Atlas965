@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atlas965
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning programming skills at Fanshawe college
+- 🌱 I’m currently learning programming
   
 <!---
 Atlas965/Atlas965 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
